@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-
+import writeYamlFile from 'write-yaml-file'
 
 
 const getEvents = async () => {
@@ -10,9 +10,6 @@ const getEvents = async () => {
     defaultViewport: null,
   });
 
-
-
-
 // Open a new page
   const page = await browser.newPage();
 
@@ -21,29 +18,11 @@ const getEvents = async () => {
     waitUntil: "domcontentloaded",
   });
 
-// Get date 
-  const date_events = await page.evaluate(() => {
-    
-    const date_element = document.querySelectorAll('.sched-current-date')
-
-    const dates = []
-    for (let index = 0; index < date_element.length; index++) {
-        const date = date_element[index];
-
-        dates.push(date.innerText)
-    }
-
-    return dates
-  });
-
-
-// get container
-
-  const containers = await page.evaluate(() => {
-    
-    const container_elements = document.querySelectorAll('.sched-container-inner')
-
-    const info_containers = []
+const containers = await page.evaluate(() => {
+  
+  const container_elements = document.querySelectorAll('.sched-container-inner')
+  
+  const info_containers = {}
     for (let index = 0; index < container_elements.length; index++) {
         const container = container_elements[index];
 
@@ -53,7 +32,9 @@ const getEvents = async () => {
         const premiereLigne = date_lieu.split('\n')[0]; 
         const date = premiereLigne.split(', ')[0]; 
 
-        const heure = premiereLigne.slice(24, 37)
+        // const heure = premiereLigne.slice(24, 39)
+        const heurre = premiereLigne.split('2024 ')[1]
+        const heure = heurre.split(' ')[0]
 
         const deuxiemeLigne = date_lieu.split('\n')[1]
         const indexWTC = deuxiemeLigne.indexOf('WTC');
@@ -73,7 +54,7 @@ const getEvents = async () => {
         const customFieldsElements = container.querySelector('.tip-custom-fields') ? container.querySelector('.tip-custom-fields').querySelector('li')  : null
         const tags =  customFieldsElements ? customFieldsElements.textContent.split(' ')[2] : '';
 
-        const resumer = container.querySelector('.tip-description') ? document.querySelector('.tip-description').innerHTML : ''
+        const resumer = container.querySelector('.tip-description') ? document.querySelector('.tip-description').innerText : ''
 
         const speakersList = container.querySelectorAll('.sched-person-session');
             const speakersNames = []
@@ -85,20 +66,33 @@ const getEvents = async () => {
 
         const speakers = speakersNames.join(' , ')
 
-        info_containers.push({title, date, heure, salle, lieu, type, speakers, resumer, tags})
+        // push informations of container in info_containers object 
+        info_containers[date] = info_containers[date] || {}
+        info_containers[date][salle] = info_containers[date][salle] || {}
+        info_containers[date][salle][heure] = {
+          title,
+          type,
+          tags,
+        }
+        if (resumer)
+            info_containers[date][salle][heure]['resumer'] = resumer
+        if (speakers)
+            info_containers[date][salle][heure]['speakers'] = speakers
     }
+      
 
     return info_containers
   });
 
 
+  // console.log(containers)
 
-//   console.log(date_events);
-  console.log(containers);
+  writeYamlFile('snowCamp.yaml', containers).then(() => {
+    console.log('done')
+  })
 
   await browser.close();
 };
-
 
 
 getEvents();
