@@ -13,7 +13,7 @@ const getEvents = async () => {
 // Open a new page
   const page = await browser.newPage();
 
-// go to page
+// go to URL 
   await page.goto("https://snowcamp2024.sched.com/list/descriptions/", {
     waitUntil: "domcontentloaded",
   });
@@ -32,7 +32,6 @@ const containers = await page.evaluate(() => {
         const premiereLigne = date_lieu.split('\n')[0]; 
         const date = premiereLigne.split(', ')[0]; 
 
-        // const heure = premiereLigne.slice(24, 39)
         const heurre = premiereLigne.split('2024 ')[1]
         const heure = heurre.split(' ')[0]
 
@@ -66,27 +65,28 @@ const containers = await page.evaluate(() => {
 
         const speakers = speakersNames.join(' , ')
 
-        // push informations of container in info_containers object 
-        info_containers[date] = info_containers[date] || {}
+        // push information of container into info_containers object 
+        info_containers[date] = info_containers[date] || {} // if info_containers[date] is falsy value , {} will be assigned 
         info_containers[date][salle] = info_containers[date][salle] || {}
         info_containers[date][salle][heure] = {
           title,
           type,
+          lieu,
           tags,
         }
         if (resumer)
-            info_containers[date][salle][heure]['resumer'] = resumer
+          info_containers[date][salle][heure]['resumer'] = resumer
+          console.log(resumer)
         if (speakers)
-            info_containers[date][salle][heure]['speakers'] = speakers
+          info_containers[date][salle][heure]['speakers'] = speakers
     }
       
-
     return info_containers
   });
+  
+  await page.close();
 
-
-  // console.log(containers)
-
+  // convert JSON to YAML file
   writeYamlFile('snowCamp.yaml', containers).then(() => {
     console.log('done')
   })

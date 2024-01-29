@@ -3,12 +3,15 @@ Wednesday January 31:
     '09:00':
       title: Welcome
       type: Organisation , Break
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
   Everest:
     '09:30':
       title: Venez construire un monolithe spring modulaire!
       type: Backend , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Vincent Bostoen , Benjamin Einaudi
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -28,11 +31,12 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Vincent Bostoen , Benjamin Einaudi
     '14:00':
       title: Docker Compose, zero to hero
       type: Language Architecture AI , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Guillaume Lours , ndeloof
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -52,14 +56,15 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Guillaume Lours , ndeloof
   Mont Blanc 1:
     '09:30':
       title: >-
         Voyage au coeur d'Appwrite : le backend open-source qui challenge
         Firebase 🧳
       type: Backend , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Lucas Audart , Alves Mickaël
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -79,11 +84,12 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Lucas Audart , Alves Mickaël
     '14:00':
       title: Venez créer un instagram-clone en full-stack en 3 heures!
       type: Cloud DevOps Sécurité , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Jean Arnaud , Olivier Leplus
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -103,12 +109,13 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Jean Arnaud , Olivier Leplus
   Mont Blanc 3:
     '09:30':
       title: La sécurité, par où commencer ? Install party 🎉
       type: Cloud DevOps Sécurité , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: David Aparicio , Christopher
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -128,11 +135,12 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: David Aparicio , Christopher
     '14:00':
       title: 'Exploiting AWS Misconfigurations: A Capture the Flag Workshop'
       type: Cloud DevOps Sécurité , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Ben , jean verrons
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -152,14 +160,15 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Ben , jean verrons
   Mont Blanc 2:
     '09:30':
       title: >-
         🍳 Recette pour des environnements aux petits oignons pour ton
         déploiement continu 🚀
       type: Cloud DevOps Sécurité , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Thomas Jouve , Matthieu Vincent
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -179,13 +188,14 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Thomas Jouve , Matthieu Vincent
     '14:00':
       title: >-
         Créer des plugins en Rust, TinyGo, ... pour vos applications Go avec
         WebAssembly et Wazero et Extism
       type: Language Architecture AI , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: ''
+      speakers: Philippe Charrière
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -205,14 +215,15 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Philippe Charrière
   Mont Blanc 4:
     '09:30':
       title: >-
         Comprendre l'IA: construisez votre propre ChatGPT sécurisé avec Node.js
         et LangChain
       type: Language Architecture AI , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Yohan Lasorsa , Olivier Mertens
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -232,11 +243,12 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Yohan Lasorsa , Olivier Mertens
     '14:00':
       title: Viens dompter ta première IA en Python
       type: Language Architecture AI , Workshop
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Thierry Chantier , Stéphane Philippart
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -256,35 +268,41 @@ Wednesday January 31:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Thierry Chantier , Stéphane Philippart
   Hall des Sponsors:
     '12:30':
       title: Lunch
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
 Thursday February 1:
   Hall des Sponsors:
     '08:00':
       title: Welcome
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
     '12:30':
       title: Lunch
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
     '16:50':
       title: Meet&Greet
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
   Auditorium:
     '09:00':
       title: Le mot de l'accueil
       type: Organisation , Break
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
     '09:15':
       title: 'La compression Web : comment (re)prendre le contrôle ?'
       type: Language Architecture AI , Keynote
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Antoine Caron , Hubert SABLONNIERE
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -304,11 +322,12 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Antoine Caron , Hubert SABLONNIERE
     '10:10':
       title: Votre propre kube as a service ? Une aventure dont vous êtes le héros...
       type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Louis Tournayre
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -328,11 +347,12 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Louis Tournayre
     '11:10':
       title: 'Code Case : les méthodes de la crim adaptées au code!'
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: ''
+      speakers: Sylvain Coudert
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -352,35 +372,12 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Sylvain Coudert
     '12:10':
       title: Picocli, mets du Java dans ton terminal !
       type: Language Architecture AI , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
       speakers: Stéphane Philippart
-    '14:00':
-      title: Partez au ski en toute sécurité
-      type: Backend , Talk
-      tags: French
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -400,430 +397,14 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Benjamin MARRON
-    '15:00':
-      title: >-
-        Le Prompt Engineering pour les nuls, où comment utiliser plus
-        efficacement la puissance des LLMs !
-      type: Language Architecture AI , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Philippe Laumay , Benoit LOUP
-    '16:00':
-      title: >-
-        CSS renaît de ses cendres: (re)devenez copains avec votre feuille de
-        style
-      type: UX Frontend , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Jean Arnaud , Yohan Lasorsa , Olivier Leplus
-  Mont Blanc:
-    '10:10':
-      title: 'Quarkus : Greener, Better, Faster, stronger.'
-      type: Backend , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Jérôme Tama
-    '11:10':
-      title: 10 tests simples pour améliorer l'accessibilité de votre site
-      type: UX Frontend , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: François-Xavier Lair
-    '12:10':
-      title: 'L’Art Génératif Dévoilé : Plongez dans l’univers créatif de l’IA'
-      type: Hors-piste , Schuss
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Lea Naccache
-    '14:00':
-      title: Devenez des orfèvres de la CI
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Léo Anesi , Morgane RICLET
-    '15:00':
-      title: "STOP à l’espionnage\_! Comment disparaître d’internet ? 🕵🏼‍♂️"
-      type: Hors-piste , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Etienne IDOUX , Alves Mickaël
-    '16:00':
-      title: Web dans le cloud, piloter ses décisions par les coûts
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Matthieu Werner
-  Makalu:
-    '10:10':
-      title: 'Chaos Engineering: REX d''un DevOps ambitieux'
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Gaetan Belliere
-    '11:10':
-      title: 'Du Flop au Top : Comment améliorer vos POC ?'
-      type: Hors-piste , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Johanna Millet
-    '12:10':
-      title: 'Bootez votre carrière : senior engineer ou manager ?'
-      type: Hors-piste , Schuss
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Luiza Cicone
-    '14:00':
-      title: 📝 ✅ La checklist ultime pour rendre vos applications cloud native !
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Katia HIMEUR
-    '15:00':
-      title: 'OAuth2, OpenID: le SSO en live-coding et sans framework'
-      type: Backend , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Daniel Garnier-Moiroux
-    '16:00':
-      title: 'Une alternative libre à Docker: Podman'
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Florent BENOIT
-  Kilimanjaro:
-    '10:10':
-      title: 'ESI : le cache HTTP en petits bouts'
-      type: Language Architecture AI , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Yann Schepens
-    '11:10':
-      title: >-
-        2 ans de migrations en environnement "cloud native" quand on n'est ni
-        une startup, ni dans le CAC40
-      type: Cloud DevOps Sécurité , Talk
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: rverchere
-    '12:10':
-      title: De la couleurs dans nos Apps
-      type: UX Frontend , Schuss
-      tags: French
-      resumer: >-
-        Vous avez besoin de construire un monolithe modulaire et de vous assurer
-        qu’au bout de plusieurs années la modularité soit encore en place?
-
-        Avec de la programmation événementielle?
-
-        Pour lequel la sortie d’une brique en micro service ne soit pas un
-        calvaire?
-
-
-        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
-        nous apporter les outils nécessaire à la construction d’un monolithe en
-        programmation événementielle. Outre la programmation, nous aborderons la
-        production de documentation logicielle ainsi que la partie observabilité
-        de notre monolithe, plus particulièrement la gestion des traces au
-        travers des différents modules.
-
-        Merci de dérouler les prérequis ici:
-        https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Emmanuel De Saint Steban
     '14:00':
       title: >-
         Au delà des architectures micro-services, découvrez les architectures
         composables !
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Benjamin MARRON
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -843,11 +424,471 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
+    '15:00':
+      title: >-
+        Le Prompt Engineering pour les nuls, où comment utiliser plus
+        efficacement la puissance des LLMs !
+      type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Philippe Laumay , Benoit LOUP
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '16:00':
+      title: >-
+        CSS renaît de ses cendres: (re)devenez copains avec votre feuille de
+        style
+      type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Jean Arnaud , Yohan Lasorsa , Olivier Leplus
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+  Mont Blanc:
+    '10:10':
+      title: 'Quarkus : Greener, Better, Faster, stronger.'
+      type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Jérôme Tama
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '11:10':
+      title: 10 tests simples pour améliorer l'accessibilité de votre site
+      type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: François-Xavier Lair
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '12:10':
+      title: 'L’Art Génératif Dévoilé : Plongez dans l’univers créatif de l’IA'
+      type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Lea Naccache
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '14:00':
+      title: Devenez des orfèvres de la CI
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Léo Anesi , Morgane RICLET
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '15:00':
+      title: "STOP à l’espionnage\_! Comment disparaître d’internet ? 🕵🏼‍♂️"
+      type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Etienne IDOUX , Alves Mickaël
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '16:00':
+      title: Web dans le cloud, piloter ses décisions par les coûts
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Matthieu Werner
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+  Makalu:
+    '10:10':
+      title: 'Chaos Engineering: REX d''un DevOps ambitieux'
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Gaetan Belliere
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '11:10':
+      title: 'Du Flop au Top : Comment améliorer vos POC ?'
+      type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Johanna Millet
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '12:10':
+      title: 'Bootez votre carrière : senior engineer ou manager ?'
+      type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Luiza Cicone
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '14:00':
+      title: 📝 ✅ La checklist ultime pour rendre vos applications cloud native !
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Katia HIMEUR
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '15:00':
+      title: 'OAuth2, OpenID: le SSO en live-coding et sans framework'
+      type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Daniel Garnier-Moiroux
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '16:00':
+      title: 'Une alternative libre à Docker: Podman'
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Florent BENOIT
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+  Kilimanjaro:
+    '10:10':
+      title: 'ESI : le cache HTTP en petits bouts'
+      type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Yann Schepens
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '11:10':
+      title: >-
+        2 ans de migrations en environnement "cloud native" quand on n'est ni
+        une startup, ni dans le CAC40
+      type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: rverchere
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '12:10':
+      title: De la couleurs dans nos Apps
+      type: UX Frontend , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
+      speakers: Emmanuel De Saint Steban
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
+    '14:00':
+      title: Partez au ski en toute sécurité
+      type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
+      tags: French
       speakers: Loïc Carbonne
+      resumer: >-
+        Vous avez besoin de construire un monolithe modulaire et de vous assurer
+        qu’au bout de plusieurs années la modularité soit encore en place?
+
+        Avec de la programmation événementielle?
+
+        Pour lequel la sortie d’une brique en micro service ne soit pas un
+        calvaire?
+
+
+        Venez essayer Spring Modulith, dernier né de la galaxie spring, qui va
+        nous apporter les outils nécessaire à la construction d’un monolithe en
+        programmation événementielle. Outre la programmation, nous aborderons la
+        production de documentation logicielle ainsi que la partie observabilité
+        de notre monolithe, plus particulièrement la gestion des traces au
+        travers des différents modules.
+
+        Merci de dérouler les prérequis ici:
+        https://github.com/antechrestos/snowcamp-springmodulith
     '15:00':
       title: Practical introduction to OpenTelemetry tracing
       type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: English
+      speakers: Nicolas Fränkel
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -867,13 +908,14 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Nicolas Fränkel
     '16:00':
       title: >-
         Le duo gagnant : Antora et AsciiDoc pour une documentation sans
         frustrations
       type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Thomas Bouffard , Benjamin Parisel
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -893,28 +935,32 @@ Thursday February 1:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Thomas Bouffard , Benjamin Parisel
 Friday February 2:
   Hall des Sponsors:
     '08:00':
       title: Welcome
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
     '12:30':
       title: Lunch
       type: Organisation , Break
+      lieu: Hall des Sponsors
       tags: French
   Auditorium:
     '09:00':
       title: Le mot de l'accueil
       type: Organisation , Break
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
     '09:15':
       title: >-
         Mieux cultiver et mieux manger grâce au logiciel : la tech au service de
         l'agriculture
       type: Hors-piste , Keynote
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Mathieu Passenaud , Bertrand Péchou
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -934,11 +980,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Mathieu Passenaud , Bertrand Péchou
     '10:10':
       title: 'Le développement augmenté à l''IA: tout ce qui va changer'
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Yohan Lasorsa
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -958,13 +1005,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Yohan Lasorsa
     '11:10':
       title: >-
         J’ai voulu m’acheter un jogging : quand une expérience sans couture
         dessert l’utilisateur
       type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Julie Francois-Franco , Iris Naudin
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -984,13 +1032,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Julie Francois-Franco , Iris Naudin
     '12:10':
       title: >-
         Dans le monde de la tech, on se demande souvent en chantant, 'Où sont
         les femmes ?'
       type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Estelle Thou
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1010,13 +1059,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Estelle Thou
     '14:00':
       title: >-
         Plongeons au coeur des frameworks frontend modernes pour comprendre leur
         réactivité🔬⚛️
       type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Sylvain Dedieu
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1036,11 +1086,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Sylvain Dedieu
     '15:00':
       title: 'Loi de Conway : Lorsque les bonnes pratiques ne suffisent pas'
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Julien Topçu
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1060,11 +1111,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Julien Topçu
     '16:00':
       title: 'Rock with RAG : Augmentons les Large Language Models'
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Loïc Gudet
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1084,16 +1136,18 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Loïc Gudet
     '16:50':
       title: Le mot de la fin
       type: Organisation , Break
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
   Makalu:
     '10:10':
       title: Green Java 🌿 ou comment appliquer l'écoconception à son code ☕
       type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Sandrine Banas
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1113,11 +1167,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Sandrine Banas
     '11:10':
       title: SELECT 'amazing_features' FROM "posgresql"
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Kevin Davin
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1137,11 +1192,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Kevin Davin
     '12:10':
       title: Filouter au quotidien à l'aide de petits scripts
       type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Suzanne Favereau
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1161,13 +1217,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Suzanne Favereau
     '14:00':
       title: >-
         Mise en place et suivi de la sécurité grâce à l'instauration de la
         conformité SOC2: SAST, DAST, Penetration Testing
       type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Julien Demazière
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1187,11 +1244,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Julien Demazière
     '15:00':
       title: 'From Zero to Qwik: Building Your First App with Confidence'
       type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Nicolas FRIZZARIN
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1211,11 +1269,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Nicolas FRIZZARIN
     '16:00':
       title: Apprends à dompter la Data sans douter de toi !
       type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: alt="drawing"
+      speakers: Johanna Vauchel
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1235,12 +1294,13 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Johanna Vauchel
   Kilimanjaro:
     '10:10':
       title: Vous pouvez venir à ce talk les yeux fermés
       type: Hors-piste , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: François-Xavier Lair
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1260,13 +1320,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: François-Xavier Lair
     '11:10':
       title: >-
         Arrêtez de cacher la sécurité de votre application à côté des monstres
         sous votre lit ?
       type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Marine du Mesnil
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1286,11 +1347,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Marine du Mesnil
     '12:10':
       title: Il n'est jamais trop tard pour redevenir junior
       type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Yann Bouvet
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1310,11 +1372,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Yann Bouvet
     '14:00':
       title: 'JAVA 21: What''s new'
       type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Vincent LINAS
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1334,13 +1397,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Vincent LINAS
     '15:00':
       title: >-
         Ajouter facilement des animations dans sa navigation Web avec la
         _Transition view API_ !
       type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Alexandre CANTIN
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1360,11 +1424,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Alexandre CANTIN
     '16:00':
       title: Adoptez la clean archigonale
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Christophe Breheret-Girardin
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1384,12 +1449,13 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Christophe Breheret-Girardin
   Mont Blanc:
     '10:10':
       title: Le futur du web est sur la périphérie du réseau
       type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Julien Sulpis
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1409,11 +1475,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Julien Sulpis
     '11:10':
       title: Survivre dans la JS-jungle des outils de tests
       type: UX Frontend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Lise Quesnel
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1433,11 +1500,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Lise Quesnel
     '12:10':
       title: Automatisez l'installation de votre poste de travail !
       type: Hors-piste , Schuss
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Sylvain METAYER
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1457,11 +1525,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Sylvain METAYER
     '14:00':
       title: Go Serverless! But is it secure?
       type: Cloud DevOps Sécurité , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: English
+      speakers: Natalie Godec
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1481,11 +1550,12 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Natalie Godec
     '15:00':
       title: Tester du legacy grace à l'Approval testing
       type: Backend , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Charles
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1505,13 +1575,14 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Charles
     '16:00':
       title: >-
         Nos solutions sont elles des problèmes? Notre métier face au dilemme de
         la poule et l'oeuf?
       type: Language Architecture AI , Talk
+      lieu: WTC, 5 - 7, place Robert Schuman, 38025 Grenoble
       tags: French
+      speakers: Christophe TARET
       resumer: >-
         Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?
@@ -1531,4 +1602,3 @@ Friday February 2:
 
         Merci de dérouler les prérequis ici:
         https://github.com/antechrestos/snowcamp-springmodulith
-      speakers: Christophe TARET
