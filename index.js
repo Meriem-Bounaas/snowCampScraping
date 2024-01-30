@@ -53,7 +53,7 @@ const containers = await page.evaluate(() => {
         const customFieldsElements = container.querySelector('.tip-custom-fields') ? container.querySelector('.tip-custom-fields').querySelector('li')  : null
         const tags =  customFieldsElements ? customFieldsElements.textContent.split(' ')[2] : '';
 
-        const resumer = container.querySelector('.tip-description') ? document.querySelector('.tip-description').innerText : ''
+        const resumer = container.querySelector('.tip-description') ? container.querySelector('.tip-description').innerText : ''
 
         const speakersList = container.querySelectorAll('.sched-person-session');
             const speakersNames = []
