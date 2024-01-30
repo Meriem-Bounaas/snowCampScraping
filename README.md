@@ -3,6 +3,8 @@
 
 ## execution:
 1. install library
-    npm install
+    
+        npm install
 2. run code
-    node index.js
+    
+        node index.js
