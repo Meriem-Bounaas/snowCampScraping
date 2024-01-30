@@ -94,5 +94,4 @@ const containers = await page.evaluate(() => {
   await browser.close();
 };
 
-
 getEvents();
